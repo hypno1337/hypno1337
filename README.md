@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **cripzymodz@protonmail.com**
 
-- 📄 Know about my experiences [Have two years of experience in C++ (Intermediate Developer but not the best)](Have two years of experience in C++ (Intermediate Developer but not the best))
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cripzyl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cripzyl" height="30" width="40" /></a>
