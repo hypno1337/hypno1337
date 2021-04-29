@@ -1,6 +1,6 @@
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
-<h1 align="center">Hi 👋, I'm hypno1337</h1>
+<h1 align="center">Hi 👋, I'm hypnotic777</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hypno1337&label=Profile%20views&color=0e75b6&style=flat" alt="hypno1337" /> </p>
 
